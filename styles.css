@@ -1,0 +1,29 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url("images/food-background.jpg");
+}
+h1 {
+  color: whitesmoke;
+  background-color: olive;
+  margin: 0;
+  text-align: center;
+}
+
+.foodPic {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+figcaption {
+    color: antiquewhite;
+
+}
+
+.foodItem {
+    color: wheat;
+    padding-left: 3em;
+    max-width: 400px;
+}
+
